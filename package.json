@@ -1,0 +1,20 @@
+{
+  "name": "kite-icons",
+  "description": "",
+  "main": "kite-icons.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kite-project/kite-icons.git"
+  },
+  "author": "Wilson Page <wilsonpage@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kite-project/kite-icons/issues"
+  },
+  "homepage": "https://github.com/kite-project/kite-icons#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-webfont": "^1.1.0"
+  }
+}
